@@ -124,7 +124,7 @@
             // ResizeWindow
             // 
             this.ResizeWindow.Enabled = false;
-            this.ResizeWindow.Image = global::CapturarSlide.Properties.Resources.redimensionar;
+            this.ResizeWindow.Image = global::ThumbGenerator.Properties.Resources.redimensionar;
             this.ResizeWindow.Location = new System.Drawing.Point(40, 88);
             this.ResizeWindow.Name = "ResizeWindow";
             this.ResizeWindow.Size = new System.Drawing.Size(23, 23);
@@ -134,7 +134,7 @@
             // 
             // NewWindow
             // 
-            this.NewWindow.Image = global::CapturarSlide.Properties.Resources.novo;
+            this.NewWindow.Image = global::ThumbGenerator.Properties.Resources.novo;
             this.NewWindow.Location = new System.Drawing.Point(13, 88);
             this.NewWindow.Name = "NewWindow";
             this.NewWindow.Size = new System.Drawing.Size(23, 23);
